@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DrPralhadMShinde
-- 👀 I’m interested in data analyics, Cryptography, building machine learning models for edtech 
+- 👀 I’m interested in Public-Key Cryptography, computational Group theory, Data Science, building machine learning(LLM) models for edtech 
 - 💞️ I’m open to collaborate on edtech projects, agro-tech projects and cryptography projects which uses AI(ML, DL, LLMs)
 - 📫 How to reach me: Drop me an email at pralhadmohanshinde@gmail.com 
 - You can know more about me at https://sites.google.com/view/shindepralhad/home  
