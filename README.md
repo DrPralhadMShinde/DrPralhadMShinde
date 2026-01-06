@@ -1,6 +1,10 @@
-- 👋 Hi, I’m @DrPralhadMShinde
-- 👀 I’m interested in Public-Key Cryptography, computational Group theory, Data Science, building machine learning(LLM) models for edtech 
-- 💞️ I’m open to collaborate on edtech projects, agro-tech projects and cryptography projects which uses AI(ML, DL, LLMs)
+👋 Hi! I’m a Data consultant with a strong interest in modern AI-driven systems and applied mathematics.
+
+👀 Interests:
+- Public-Key Cryptography & Computational Group Theory  
+- Data Science & Advanced Analytics  
+- Machine Learning, Deep Learning & Large Language Models (LLMs)  
+- Agentic AI, autonomous workflows, and AI-powered decision systems  
 - 📫 How to reach me: Drop me an email at pralhadmohanshinde@gmail.com 
 - You can know more about me at https://sites.google.com/view/shindepralhad/home  
 
